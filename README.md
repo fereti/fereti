@@ -3,7 +3,7 @@
 
 <h3 align="center">Uren, Russia 🇷🇺</h3>
 
-[![codewars](https://www.codewars.com/users/KKKone/badges/small)](https://www.codewars.com/users/KKKone)
+[![codewars](https://www.codewars.com/users/fereti/badges/small)](https://www.codewars.com/users/fereti)
 
 
 - 🌱 I’m currently learning **Python**
